@@ -1,0 +1,6 @@
+  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,
+  X  ,B-01B,B-02B,B-03B,B-04B,B-05B,B-06B,B-07B,  T  ,  K  ,  X  ,
+  C  ,  <  ,  -  ,  -  ,  -  ,  -  ,  -  ,  >  ,  -  ,  I  ,  X  ,
+  X  ,B-01A,B-02A,B-03A,B-04A,B-05A,B-06A,B-07A,  -  ,  G  ,  X  ,
+  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,  X  ,  X  , D-1 ,  X  ,  X  ,
+@
